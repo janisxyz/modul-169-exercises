@@ -8,7 +8,7 @@ Alternatively, you can use different plex images (e.g. official plex image by
 
 Project structure:
 
-```
+```bash
 .
 ├── .env
 ├── compose.yaml
@@ -42,7 +42,7 @@ Check out the description for Hardware Acceleration support in the
 When deploying this setup, the web interface will be available on port 32400
 (e.g. http://localhost:32400/web).
 
-```shell
+```bash
 $ docker compose up -d
 Starting plex ... done
 ```
@@ -51,7 +51,7 @@ Starting plex ... done
 
 Check containers are running:
 
-```
+```bash
 $ docker ps
 CONTAINER ID   IMAGE                             COMMAND                  CREATED          STATUS         PORTS                                          NAMES
 62fc3ff1f1a0   linuxserver/plex:latest           "/init"                  38 seconds ago   Up 3 seconds                                                  plex
@@ -62,7 +62,7 @@ web interface.
 
 Stop the containers with
 
-```shell
+```bash
 $ docker compose down
 # To delete all data run:
 $ docker compose down -v

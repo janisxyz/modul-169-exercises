@@ -18,11 +18,8 @@
     "wait-port": "^0.2.2"
   },
   "prettier": {
-    "trailingComma": "all",
-    "tabWidth": 4,
-    "useTabs": false,
-    "semi": true,
-    "singleQuote": true
+    "proseWrap": "always",
+    "embeddedLanguageFormatting": "auto"
   },
   "devDependencies": {
     "jest": "^24.9.0",
