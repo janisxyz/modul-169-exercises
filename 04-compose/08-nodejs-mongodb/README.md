@@ -1,4 +1,4 @@
-## Aufgabe 08: NodeJs mit MongoDB
+## NodeJs mit MongoDB
 
 Erstelle zuerst ein Dockerfile, um die NodeJS Applikation zu bauen.
 

@@ -1,4 +1,4 @@
-## Aufgabe 03: Plex
+## Plex
 
 This example provides a base setup for using [Plex](https://www.plex.tv/). More
 details on how to customize the installation and the compose file can be found

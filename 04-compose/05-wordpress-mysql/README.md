@@ -1,4 +1,4 @@
-## Aufgabe 05: WordPress with MySQL
+## WordPress with MySQL
 
 This example defines one of the basic setups for WordPress. More details on how
 this works can be found on the official

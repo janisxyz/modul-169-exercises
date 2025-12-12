@@ -1,4 +1,4 @@
-## Aufgabe 07: Eine Applikation zum Verwalten von Docker-Commands
+## Eine Applikation zum Verwalten von Docker-Commands
 
 Die Applikation verwaltet Informationen zu den einzelnen Docker-Commands. Sie
 speichert ihre Daten in einer MongoDB-Datenbank.

@@ -1,4 +1,4 @@
-## Aufgabe 01: Python FastAPI mit Docker Compose starten
+## Python FastAPI mit Docker Compose starten
 
 Erstelle ein Docker-Compose-File, das die API in einem Container startet und den
 Port 8000 freigibt. Zudem soll das aktuelle Verzeichnis in den Container

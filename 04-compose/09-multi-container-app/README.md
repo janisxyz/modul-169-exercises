@@ -1,4 +1,4 @@
-## Aufgabe 09: Multi-Container-App
+## Multi Container App
 
 In der Praxis wird eine Anwendung oft aus mehreren Containern bestehen. In
 dieser Aufgabe soll eine einfache Multi-Container-App erstellt werden.
@@ -16,7 +16,7 @@ werden. Der Container soll `db` heissen und das Passwort für den Benutzer
 `postgres` soll `foobarbaz` sein. Der Container soll auf Port `5432` auf dem
 Host-System verfügbar sein.
 
-Setze die Umgebungvariable `POSTGRES_PASSWORD` auf `foobarbaz`.
+Setze die Umgebungsvariable `POSTGRES_PASSWORD` auf `foobarbaz`.
 
 Wie lautet der Befehl, um diesen Container zu erstellen?
 

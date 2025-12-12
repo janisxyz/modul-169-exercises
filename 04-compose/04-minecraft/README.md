@@ -1,4 +1,4 @@
-## Aufgabe 04: Minecraft Server
+## Minecraft Server
 
 This example defines a basic setup for a Minecraft server. More details on the
 Minecraft server docker image can be found
