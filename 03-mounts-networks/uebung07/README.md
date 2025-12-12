@@ -1,5 +1,4 @@
-
-## uebung07: MariaDB und phpMyAdmin im Docker-Netzwerk
+## MariaDB und phpMyAdmin im Docker-Netzwerk
 
 ### Ziel
 
