@@ -35,7 +35,7 @@ const port = 3000;
 
 app.get("/", (req, res) => {
   res.send(
-    "Hello, World! This is a simple Node.js web server using Express.js.",
+    "Hello, World! This is a simple Node.js web server using Express.js."
   );
 });
 
@@ -59,7 +59,7 @@ RUN npm install
 # Expose the port the app runs on
 EXPOSE 3000
 # Command to run the application
-CMD ["npm", "start"] 
+CMD ["npm", "start"]
 ```
 
 - Bilden Sie das Image mit dem Tag `-t uebung12`
