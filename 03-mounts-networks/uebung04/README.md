@@ -47,11 +47,11 @@ const app = express();
 const PORT = 3000;
 
 // Statische Dateien bereitstellen
-app.use(express.static(path.join(\_\_dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 // Routen definieren
 app.get('/', (req, res) => {
-  res.sendFile(path.join(\_\_dirname, 'public', 'index.html'));
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 // Server starten
